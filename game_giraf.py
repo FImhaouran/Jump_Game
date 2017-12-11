@@ -20,9 +20,9 @@ velocity = [-8.5,-8,-7.5,-7,-6.0, -5.9000000000000004, -5.8000000000000007, -5.7
   4.699999999999962,  4.7999999999999616,4.8999999999999613,4.9999999999999609, 5.0999999999999606,5.1999999999999602,5.2999999999999599, 5.3999999999999595, 5.4999999999999591, 5.5999999999999588, 5.6999999999999584, 5.7999999999999581, 5.8999999999999577,6,7,7.5,8,8.5]
 
 arrow_img = image.load('arrow.png')
-background = image.load('game_background.png')
-giraf_img = image.load('baby_giraf.png')
-go_img = image.load('gameover.png')
+background = image.load('img/game_background.png')
+giraf_img = image.load('img/baby_giraf.png')
+go_img = image.load('img/gameover.png')
 lion_img = image.load('lion.png')
 con_img = image.load('cong.png')
 
